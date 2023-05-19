@@ -1,0 +1,23 @@
+.Body{
+    background-color: red;
+    width: 60vw;
+    margin: auto;
+    border-radius: 0.4rem;
+    border: 1px solid black;
+}
+.Body p{
+    padding-left: 0.5rem;          
+    border-bottom: 1px solid black;
+}
+.Body h1{
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; */
+    /* text-align: center; */
+    padding-left: 0.5rem;
+    border-bottom: 1px solid black;
+}
+.Body h3{
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; */
+    /* text-align: center; */
+    padding-left: 0.5rem;
+    border-bottom: 1px solid black;
+}
